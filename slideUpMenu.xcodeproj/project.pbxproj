@@ -13,6 +13,7 @@
 		7F56273C279D076D008CC56E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F56273A279D076D008CC56E /* Main.storyboard */; };
 		7F56273E279D0772008CC56E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F56273D279D0772008CC56E /* Assets.xcassets */; };
 		7F562741279D0772008CC56E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F56273F279D0772008CC56E /* LaunchScreen.storyboard */; };
+		7F562749279D14B0008CC56E /* SlideUpViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F562748279D14B0008CC56E /* SlideUpViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7F56273D279D0772008CC56E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F562740279D0772008CC56E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F562742279D0772008CC56E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F562748279D14B0008CC56E /* SlideUpViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideUpViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7F562734279D076D008CC56E /* AppDelegate.swift */,
 				7F562736279D076D008CC56E /* SceneDelegate.swift */,
 				7F562738279D076D008CC56E /* ViewController.swift */,
+				7F562748279D14B0008CC56E /* SlideUpViewCell.swift */,
 				7F56273A279D076D008CC56E /* Main.storyboard */,
 				7F56273D279D0772008CC56E /* Assets.xcassets */,
 				7F56273F279D0772008CC56E /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F562739279D076D008CC56E /* ViewController.swift in Sources */,
+				7F562749279D14B0008CC56E /* SlideUpViewCell.swift in Sources */,
 				7F562735279D076D008CC56E /* AppDelegate.swift in Sources */,
 				7F562737279D076D008CC56E /* SceneDelegate.swift in Sources */,
 			);
